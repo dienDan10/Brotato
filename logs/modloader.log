@@ -1,11 +1,11 @@
 2025-03-29 Created log
-01:12:34   INFO ModLoader:Loader: game_install_directory: D:/Brotato/
-01:12:34   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
-01:12:34   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "workshop/content/1942280"
-01:12:34   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder workshop/content/1942280 (Error: 31)
-01:12:34   INFO ModLoader:Loader: No zipped mods found
-01:12:34   WARNING ModLoader:Loader: Can't open unpacked mods folder res://mods-unpacked/.
-01:12:34   INFO ModLoader:Loader: No mods were setup
-01:12:34   SUCCESS ModLoader:Loader: DONE: Loaded all meta data
-01:12:34   SUCCESS ModLoader:Loader: DONE: Completely finished loading mods
-01:12:34   SUCCESS ModLoader:Loader: DONE: Installed all script extensions
+18:58:48   INFO ModLoader:Loader: game_install_directory: D:/Brotato/
+18:58:48   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+18:58:48   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "workshop/content/1942280"
+18:58:48   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder workshop/content/1942280 (Error: 31)
+18:58:48   INFO ModLoader:Loader: No zipped mods found
+18:58:48   WARNING ModLoader:Loader: Can't open unpacked mods folder res://mods-unpacked/.
+18:58:48   INFO ModLoader:Loader: No mods were setup
+18:58:48   SUCCESS ModLoader:Loader: DONE: Loaded all meta data
+18:58:48   SUCCESS ModLoader:Loader: DONE: Completely finished loading mods
+18:58:48   SUCCESS ModLoader:Loader: DONE: Installed all script extensions
