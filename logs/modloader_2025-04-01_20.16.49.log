@@ -1,0 +1,14 @@
+2025-04-01 Created log
+11:37:55   INFO ModLoader:Loader: game_install_directory: D:/Brotato/
+11:37:55   INFO ModLoader:UserProfile: No mod_ids inside "mod_list" for user profile "default" 
+11:37:55   INFO ModLoader:ThirdParty:Steam: Checking workshop items, with path: "workshop/content/1942280"
+11:37:55   ERROR ModLoader:ThirdParty:Steam: Can't open workshop folder workshop/content/1942280 (Error: 31)
+11:37:55   INFO ModLoader:Loader: No zipped mods found
+11:37:55   WARNING ModLoader:Loader: Can't open unpacked mods folder res://mods-unpacked/.
+11:37:55   INFO ModLoader:Loader: No mods were setup
+11:37:55   SUCCESS ModLoader:Loader: DONE: Loaded all meta data
+11:37:55   SUCCESS ModLoader:Loader: DONE: Completely finished loading mods
+11:37:55   SUCCESS ModLoader:Loader: DONE: Installed all script extensions
+20:16:49   INFO ModLoader:Store: Options override feature tag "editor". does not apply, skipping.
+20:16:49   INFO ModLoader:Store: Options override feature tag "epic". does not apply, skipping.
+20:16:49   INFO ModLoader:Store: Applying options override with feature tag "steam".
